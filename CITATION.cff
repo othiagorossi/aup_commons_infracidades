@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "Se você usar este código ou dados, cite como abaixo."
+authors:
+  - family-names: "Rossi"
+    given-names: "Thiago Joel Angrizanes"
+  - family-names: "de Carvalho"
+    given-names: "Aline Martins"
+  - family-names: "Sarti"
+    given-names: "Flavia Mori"
+title: "Agricultura urbana como infraestrutura verde e social: persistência, deslocamento e bens comuns em São Paulo — código e dados"
+year: 2026
+url: "https://github.com/othiagorossi/aup_commons_infracidades"

@@ -1,0 +1,6 @@
+policy_scenario,sustentabilidade_geral,dp_geral,sustentabilidade_social,sustentabilidade_economica,retencao_pct,retencao_dp,taxa_deslocamento,apreciacao_pct,apreciacao_dp,indice_protecao,n
+no_protection,19.095,0.039,49.033,19.156,0.0,0.0,3.222,2060.402,133.551,0.0,30
+weak_protection,29.112,1.158,52.072,36.152,20.0,0.0,2.803,1868.937,71.28,0.27,30
+moderate_protection,42.079,0.936,62.409,51.749,40.067,0.365,2.374,1339.535,33.332,0.54,30
+strong_protection,48.365,1.336,66.997,59.733,50.0,0.0,2.033,1134.92,27.074,0.64,30
+maximum_protection,68.105,0.891,82.838,83.372,80.133,0.507,0.858,660.407,33.44,0.87,30
